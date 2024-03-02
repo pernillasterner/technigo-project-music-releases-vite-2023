@@ -44,7 +44,7 @@ Further we would implement Sass to get a cleaner CSS code and to be able to styl
 
 ### View it live
 
-[Music Release App](https://technigo-music-release-app.netlify.app/)
+[Music Release App](https://technigo-music-release-app-2023.netlify.app/)
 
 ## Instructions
 
